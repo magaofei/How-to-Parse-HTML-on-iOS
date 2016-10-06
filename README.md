@@ -2,7 +2,9 @@
 
 from : https://www.raywenderlich.com/14172/how-to-parse-html-on-ios
 
-*This is a blog post by iOS Tutorial Team member Matt Galloway, founder of SwipeStack, a mobile development team based in London, UK. You can also find me on Google+.*
+[Matt Galloway](https://www.raywenderlich.com/?page_id=9#mattgalloway)
+
+> *This is a blog post by iOS Tutorial Team member Matt Galloway, founder of SwipeStack, a mobile development team based in London, UK. You can also find me on Google+.*
 
 I refer to the above code, and made some modifications
 
